@@ -1,4 +1,5 @@
 # warsawjs-workshop-24-shopping-cart
+[![Build Status](https://travis-ci.org/miszo/warsawjs-workshop-24-shopping-cart.svg?branch=master)](https://travis-ci.org/miszo/warsawjs-workshop-24-shopping-cart)
 
 App created for training purposes on the WarsawJS Workshop #24 - integration testing
 
