@@ -1,3 +1,10 @@
+before_install:
+  - cd ..
+  - git clone https://github.com/miszo/warsawjs-workshop-24-shopping-cart-api.git shopApi
+  - cd shopApi
+  - npm i
+  - npm start &
+  - cd ../warsawjs-workshop-24-shopping-cart
 language: node_js
 node_js:
   - '10'
