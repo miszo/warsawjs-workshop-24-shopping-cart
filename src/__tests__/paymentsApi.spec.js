@@ -1,7 +1,7 @@
 import nock from 'nock';
 import paymentsApi from '../paymentsApi';
 
-describe('paymentsApi', () => {
+describe.only('paymentsApi', () => {
   const payment = {
     token: '123ABC',
     amount: 950,
